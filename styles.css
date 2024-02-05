@@ -1,0 +1,47 @@
+body {
+    background: black;
+    margin: 0;
+}
+
+
+.post-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+header {
+    background: white;
+    padding: 10px;
+}
+
+.leftheader {
+    display: flex;
+}
+
+.fa-brands {
+    font-size: 2em;
+
+}
+
+.fa-solid {
+    font-size: x-large;
+}
+
+.HTML5 {
+    font-weight: 600;
+}
+
+.post {
+    background: white;
+    margin-top: 10px;
+}
+
+.container {
+    width: 350px;
+    margin: auto;
+}
+
+#flamingo {
+    height: auto;
+    width: 100%;
+}
